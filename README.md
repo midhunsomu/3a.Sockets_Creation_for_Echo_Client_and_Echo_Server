@@ -36,7 +36,8 @@ while True:
 ```
 ## OUPUT:
 ### Client:
-![exp 3a client](https://github.com/user-attachments/assets/e56a6904-39cb-490f-a0b0-9da604a67878)
+![image](https://github.com/user-attachments/assets/878c8fcb-5ec1-46c8-8cc0-2b65b861a4fe)
+
 
 ### Server:
 ![exp 3a server](https://github.com/user-attachments/assets/160691df-7b53-4d93-ae66-4736a07fd9b0)
