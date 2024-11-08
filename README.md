@@ -34,6 +34,14 @@ while True:
     c.send(ClientMessage.encode())
 
 ```
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 ## OUPUT:
 ### Client:
 ![image](https://github.com/user-attachments/assets/878c8fcb-5ec1-46c8-8cc0-2b65b861a4fe)
